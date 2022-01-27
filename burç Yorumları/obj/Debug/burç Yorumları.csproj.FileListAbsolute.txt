@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\burç Yorumları\bin\Debug\burç Yorumları.exe.config
+C:\Users\PC\Desktop\burç Yorumları\bin\Debug\burç Yorumları.exe
+C:\Users\PC\Desktop\burç Yorumları\bin\Debug\burç Yorumları.pdb
+C:\Users\PC\Desktop\burç Yorumları\obj\Debug\burç Yorumları.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\burç Yorumları\obj\Debug\burç_Yorumları.Form1.resources
+C:\Users\PC\Desktop\burç Yorumları\obj\Debug\burç_Yorumları.Properties.Resources.resources
+C:\Users\PC\Desktop\burç Yorumları\obj\Debug\burç Yorumları.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\burç Yorumları\obj\Debug\burç Yorumları.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\burç Yorumları\obj\Debug\burç Yorumları.exe
+C:\Users\PC\Desktop\burç Yorumları\obj\Debug\burç Yorumları.pdb
